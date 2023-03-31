@@ -6,7 +6,6 @@
 -->
 
 :smile: :smile: :smile:
-:smile: :smile: :smile:
 
 # Hello GitHub Actions
 
